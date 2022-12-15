@@ -1,0 +1,30 @@
+[
+    {   "id": 1, 
+        "nombre": "LABIAL", 
+        "descripcion": "Los colores de moda",
+        "cantidad": 1,
+        "precio": 2.5,
+        "imagen": "./img/lapizlabio.jpg"
+    },
+    {   "id": 2, 
+        "nombre": "SOMBRAS", 
+        "descripcion": "Paletas super completas",
+        "cantidad": 1,
+        "precio": 2,
+        "imagen": "./img/sombras.jpg"
+    },
+    {   "id": 3, 
+        "nombre": "SET DE CREMAS", 
+        "descripcion": "El cuidado diario que necesitás",
+        "cantidad": 1,
+        "precio": 5,
+        "imagen": "./img/cremas1.jpg"
+    },
+    {   "id": 4,    
+        "nombre": "RIMEL", 
+        "descripcion": "Volumen y color en tus pestañas",
+        "cantidad": 1,
+        "precio": 3,
+        "imagen": "./img/rimel.jpg"
+    }
+]   
